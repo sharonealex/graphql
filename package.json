@@ -22,5 +22,8 @@
   "homepage": "https://github.com/sharonealex/graphql#readme",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.2.1"
   }
 }
